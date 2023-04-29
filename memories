@@ -1,1 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Note there is no responsive meta tag here -->
+    <link rel="shortcut icon" href="../assets/ico/favicon.ico.html">
+    <title>Shuaixiang(Shu) Zhang</title>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="css/non-responsive.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+  <body>
 
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="https://szhang17phys.github.io/">Shuaixiang(Shu) Zhang </a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="research.html">Research</a></li>
+            <li><a href="teaching.html">Teaching</a></li>
+            <!-- <li><a href="Teaching.html">Teaching</a></li> -->
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    
+    <div class="container">
+      	<div class="page-header">
+		<h2>Research interests</h2>
+		</div>
+		<ul>
+		  <li> Neutrino Oscillation </li>
+		  <li> Liquid Argon TPC (LArTPC) </li>
+		  <li> Photon Detection System (PDS) </li>
+		  <li> X_Arapuca </li>		
+		  <li> Rayleigh Scattering in LAr </li>
+		</ul>
+    </div>
+      
+    <div class="container">
+        <div class="page-header">
+                <h2>Publications and Preprints</h2><h2>  
+		          </h2></div>     
+        
+              <p>
+	    	</p><li> Author. 
+                    <a href="link"> Title of paper.</a>
+	    	  <em></em>
+                <p></p>        
+  
+
+    </li></div>
+
+
+
+  <!--             <p>
+		</p><li> Jianqing Fan, Zhipeng Lou, Mengxin(Maxine) Yu (Alphabetical). 
+                    <a href="https://arxiv.org/abs/2211.11959"> Robust High-dimensional Tuning Free Multiple Testing. </a>
+	    	Under Revision at the Annals of Statistics (AOS). <em></em>
+                <p></p>  
+	 <p>
+		</p><li> Jianqing Fan, Zhipeng Lou, Weichen Wang, Mengxin(Maxine) Yu (Alphabetical). 
+                     <a href="https://arxiv.org/abs/2211.11957"> Ranking Inferences Based on the top Choice of Multiway Comparisons. </a>
+	    	Under Revision at Journal of the American Statistical Association (JASA). <em></em>
+                <p></p>   
+	 <p>
+		       
+	    	</p><li> Mengxin(Maxine) Yu, Zhuoran Yang, Jianqing Fan. 
+                     <a href="http://arxiv.org/abs/2208.11040"> Strategic Decision-Making in the Presence of Information Asymmetry: Provably Efficient RL with Algorithmic Instruments. </a>
+	    	Under Revision at Annals of Statistics (AOS). <em></em>
+                <p></p>   
+	  <p>   
+		</p><li> Jianqing Fan, Zhipeng Lou, Mengxin(Maxine) Yu (Alphabetical). 
+                    <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2169700">Are Latent Factor Regression and Sparse Regression Adequate?</a>
+	    	Accepted to the <em>Journal of the American Statistical Association (JASA), 2023</em>.
+                <p></p>        
+        <p>
+                </p><li> Jianqing Fan, Yongyi Guo, Mengxin(Maxine) Yu (Alphabetical). 
+                    <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2128359">Policy Optimization Using Semiparametric Models for Dynamic Pricing.</a>
+	    	Accepted to the <em>Journal of the American Statistical Association (JASA), 2022</em> .
+                <p></p>         
+        <p>
+		 </p><li> Jianqing Fan, Zhuoran Yang, Mengxin(Maxine) Yu (Alphabetical). 
+                    <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2044824">Understanding Implicit Regularization in Over-Parameterized Single Index Model.</a>
+		 Accepted to the <em>Journal of the American Statistical Association (JASA), 2022</em>.
+                <p></p>          
+        <p>
+                </p><li> Lu Deng, Mengxin(Maxine) Yu, Zhengjun Zhang (Alphabetical). 
+                    <a href="https://www.mdpi.com/2073-4433/11/6/665">Statistical Learning of the Worst Regional Smog Extremes with Dynamic Conditional Modeling.</a>
+                    <em>Atmosphere 2020, 11(6), 665; </em>.
+                <p></p> 
+    </li></div>
+  -->
+
+
+<!-- 
